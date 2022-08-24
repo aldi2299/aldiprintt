@@ -114,12 +114,13 @@ body {
 }
 
 .cbb p {
-  font-size: 9px;
+  font-size: 10px;
   font-weight: 500;
   color: grey;
 }
 
 .cbb h5 {
+  font-size: 17px;
   color: #0918cc;
 }
 
